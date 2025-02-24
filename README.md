@@ -8,7 +8,7 @@
 </div>
 
 
-<img align="center" alt="" height="190px" src="https://i.pinimg.com/736x/51/ea/ac/51eaac7b076958ed65e0266da2bdc11a.jpg">
+<img align="center" alt="" height="190px" src="https://img.freepik.com/vetores-premium/banner-longo-sem-costura-com-fantasma-em-fundo-roxo-escuro_112545-3510.jpg">
 
 
 Estudante de Análise e Desenvolvimento de Sistemas com o Senai. Atualmente estudo no Sesi e faço curso tecnico de DS(Desenvolvimento de sistemas). Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
