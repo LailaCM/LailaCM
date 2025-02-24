@@ -25,7 +25,7 @@
 
 ##
 
-## Mais informações 𓆝.˚ 𓇼
+## Mais informações 
 [<img alt="Portifolio" src="https://img.shields.io/badge/-Portifolio-%233c0078?style=for-the-badge&logo=github&logoColor=white"/>](https://lailacm.github.io)
 
 ##
