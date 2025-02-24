@@ -5,7 +5,8 @@
 ## Hello, Devs!! 👋
 ### Meu nome é Laila Casadei Macêdo, Seja bem-vindo ao meu perfil GitHub.
 
-<img src="https://png.pngtree.com/png-vector/20231223/ourmid/pngtree-dog-computer-pc-tablet-wearable-png-image_11285021.png" alt="ilustração de um computador" width="200px">
+<img align="center" alt="" height="190px" src="https://media.tenor.com/mH_Sq3JI3jkAAAAi/helloworld-programming.gif">
+
 
 Estudante de Análise e Desenvolvimento de Sistemas com o Senai. Atualmente estudo no Sesi e faço curso tecnico de DS(Desenvolvimento de sistemas). Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
