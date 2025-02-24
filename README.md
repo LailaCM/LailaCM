@@ -11,7 +11,7 @@ Estudante de Análise e Desenvolvimento de Sistemas com o Senai. Atualmente estu
 
 ##
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img align="right" alt="" height="190px" src="https://media1.tenor.com/m/QLh0PhunTj8AAAAC/anime-typing.gif">
 
 <h3 align="left">My Stack ✮⋆˙</h3>
 <div align="left">
@@ -39,9 +39,17 @@ Estudante de Análise e Desenvolvimento de Sistemas com o Senai. Atualmente estu
 ##
 
 <h3 align="left">Connect with me!</h3>
-<a href="mailto:lailacmacedo07@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/laila-casadei-macêdo-594208287/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/laila.casadei/)
+<div align="left">
+  <a href="mailto:lailacmacedo07@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/laila-casadei-macêdo-594208287/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF"/>
+  </a>
+  <a href="https://www.instagram.com/laila.casadei/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF"/>
+  </a>
+</div>
 
 ##
 
