@@ -2,10 +2,13 @@
 
 <div align="center">
 
-## Hello, Devs!! 👋
-### Meu nome é Laila Casadei Macêdo, Seja bem-vindo ao meu perfil GitHub.
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=653C99&width=435&lines=.+%E2%82%8A+%E2%8A%B9+Bem-vindo(a)+ao+meu+perfil!+.+%E2%82%8A%CB%96+.+%E2%82%8A" alt="Typing SVG" /></a>
 
-<img align="center" alt="" height="190px" src="https://media.tenor.com/mH_Sq3JI3jkAAAAi/helloworld-programming.gif">
+</div>
+
+
+<img align="center" alt="" height="190px" src="https://i.pinimg.com/736x/51/ea/ac/51eaac7b076958ed65e0266da2bdc11a.jpg">
 
 
 Estudante de Análise e Desenvolvimento de Sistemas com o Senai. Atualmente estudo no Sesi e faço curso tecnico de DS(Desenvolvimento de sistemas). Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
