@@ -36,7 +36,7 @@ Estudante de Análise e Desenvolvimento de Sistemas com o Senai. Atualmente estu
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/laila-casadei-macêdo-594208287/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-069?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF"/>
   </a>
 </div>
 
@@ -44,7 +44,7 @@ Estudante de Análise e Desenvolvimento de Sistemas com o Senai. Atualmente estu
 
 ### Mais informações ᶻ 𝗓 𐰁 
 <a></a>
-[<img alt="Portifolio" src="https://img.shields.io/badge/-Portifolio-%233c0078?style=for-the-badge&logo=github&logoColor=white"/>](https://lailacm.github.io)
+[<img alt="Portifolio" src="https://img.shields.io/badge/-Portifolio-%235c0078?style=for-the-badge&logo=github&logoColor=white"/>](https://lailacm.github.io)
 
 ##
 
