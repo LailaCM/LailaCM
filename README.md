@@ -40,7 +40,7 @@
 </div>
 
 <p align="center">
- ![snake gif](https://github.com/LailaCM/LailaCM/blob/output/snake.svg)
+ ![snake gif](https://github.com/LailaCM/LailaCM/blob/output/github-contribution-grid-snake.svg)
 </p>
 
 </div>
