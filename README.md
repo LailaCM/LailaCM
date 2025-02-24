@@ -39,8 +39,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LailaCM&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 
-<p align="center">
- ![snake gif](https://github.com/LailaCM/LailaCM/blob/output/github-contribution-grid-snake.svg)
-</p>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LailaCM/LailaCM/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LailaCM/LailaCM/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LailaCM/LailaCM/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
