@@ -19,13 +19,14 @@
 
 ##
 
-#### Como entrar em contato comigo ⋆˚✿˖°
+### Como entrar em contato comigo ⋆˚✿˖°
 <a href="mailto:lailacmacedo07@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 [<img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/laila-casadei-macêdo-594208287/)
 
 ##
 
-## Mais informações 
+### Mais informações ᶻ 𝗓 𐰁 
+<a></a>
 [<img alt="Portifolio" src="https://img.shields.io/badge/-Portifolio-%233c0078?style=for-the-badge&logo=github&logoColor=white"/>](https://lailacm.github.io)
 
 ##
