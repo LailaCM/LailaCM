@@ -10,25 +10,22 @@
 📍  Sou de Amparo/SP, Brasil
 ##
 
-#### Estou aprendendo sobre:
+#### My Stack ✮⋆˙
 [<img height="48px" width="48px" alt="Icone Java" src="https://skillicons.dev/icons?i=java"/>](https://dev.java/learn/) [<img height="48px" width="48px" alt="Icone Javascript" src="https://skillicons.dev/icons?i=javascript"/>](https://devdocs.io/javascript/)
 [<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org/) 
-##
-
-#### Tecnologias que eu sei:
 [<img height="48px" width="48px" alt="Icone HTML" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML) [<img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img height="48px" width="48px" alt="Icone Git" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/) [<img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
 [<img height="48px" width="48px" alt="Icone C" src="https://skillicons.dev/icons?i=c"/>](https://devdocs.io/c/)
 
 ##
 
-#### Como entrar em contato comigo:
+#### Como entrar em contato comigo ⋆˚✿˖°
 <a href="mailto:lailacmacedo07@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 [<img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/laila-casadei-macêdo-594208287/)
 
 ##
 
-## Mais informações:
+## Mais informações ᶻ 𝗓 𐰁
 [<img alt="Portifolio" src="https://img.shields.io/badge/-Portifolio-%233c0078?style=for-the-badge&logo=github&logoColor=white"/>](https://lailacm.github.io)
 
 [![wakatime](https://wakatime.com/badge/user/6f735bcc-587e-4ae9-9301-70a9ea0e8419.svg)](https://wakatime.com/@6f735bcc-587e-4ae9-9301-70a9ea0e8419)
