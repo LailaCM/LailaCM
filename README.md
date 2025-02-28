@@ -48,7 +48,7 @@ Estudante de Análise e Desenvolvimento de Sistemas com o Senai. Atualmente estu
 
 ### Mais informações ᶻ 𝗓 𐰁 
 <a></a>
-[<img alt="Portifolio" src="https://img.shields.io/badge/-Portifolio-%235c0078?style=for-the-badge&logo=github&logoColor=white"/>](https://lailacm.github.io/LailaCM/)
+[<img alt="Portifolio" src="https://img.shields.io/badge/-Portifolio-%235c0078?style=for-the-badge&logo=github&logoColor=white"/>](https://lailacm.github.io)
 
 ##
 
