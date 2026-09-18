@@ -11,9 +11,7 @@
 <img align="center" alt="" max-height="180px" src="https://66.media.tumblr.com/7055b73e8e6cffd64d3826dbeba9e11c/tumblr_mvjmeqw57N1rfjowdo1_500.gif" widht="100%" />
 
 
-Estudante de Análise e Desenvolvimento de Sistemas com o Senai. Atualmente estudo no Sesi e faço curso tecnico de DS(Desenvolvimento de sistemas). Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
-
-##
+Formada pelo Senai no curso técnico de Análise e Desenvolvimento de Sistemas. Atualmente curso Matemática na Unesp de Rio CLaro. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia.
 
 <img align="right" alt="" height="190px" src="https://media1.tenor.com/m/QLh0PhunTj8AAAAC/anime-typing.gif">
 
